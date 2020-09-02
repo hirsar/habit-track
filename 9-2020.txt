@@ -1,0 +1,6 @@
+Hobby 1
+Drawing Piece 2 1
+Education 1
+AE550 2 0.16
+Health 1
+Exercise 3 
